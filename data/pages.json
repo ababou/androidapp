@@ -1,19 +1,41 @@
 [
-    {
-      "title": "تعريف الجمعية",
-      "file": "intro.html"
-    },
-    {
-      "title": "القوانين الأساسية",
-      "file": "rules.html"
-    },
-    {
-      "title": "المكتب المسير",
-      "file": "team.html"
-    },
-    {
-      "title": "بلاغات",
-      "file": "news.html"
-    }
-  ]
-  
+  {
+    "section": "حول الجمعية",
+    "pages": [
+      {
+        "title": "تعريف الجمعية",
+        "file": "intro.html"
+      },
+      {
+        "title": "المكتب المسير",
+        "file": "team.html"
+      }
+    ]
+  },
+  {
+    "section": "القوانين والوثائق",
+    "pages": [
+      {
+        "title": "القـانـون الأسـاسـي ",
+        "file": "rules.html"
+      },
+      {
+        "title": "القانون الداخلي",
+        "file": "team.html"
+      }
+    ]
+  },
+  {
+    "section": "أنشطة وبلاغات",
+    "pages": [
+      {
+        "title": "بلاغات",
+        "file": "news.html"
+      },
+      {
+        "title": " أنشطة,
+        "file": "team.html"
+      }
+    ]
+  }
+]
