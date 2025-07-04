@@ -1,41 +1,25 @@
 [
   {
-    "section": "حول الجمعية",
+    "section": "عن الجمعية",
     "pages": [
-      {
-        "title": "تعريف الجمعية",
-        "file": "intro.html"
-      },
-      {
-        "title": "المكتب المسير",
-        "file": "team.html"
-      }
+      { "title": "تعريف الجمعية", "file": "intro.html" },
+      { "title": "القوانين الأساسية", "file": "rules.html" },
+      { "title": "المكتب المسير", "file": "team.html" },
+       { "title": "من نحن", "file": "about.html" },
+      { "title": "الرؤية والرسالة", "file": "vision.html" }
     ]
   },
   {
-    "section": "القوانين والوثائق",
+    "section": "المستجدات",
     "pages": [
-      {
-        "title": "القـانـون الأسـاسـي ",
-        "file": "rules.html"
-      },
-      {
-        "title": "القانون الداخلي",
-        "file": "team.html"
-      }
+      { "title": "بلاغات", "file": "news.html" }
     ]
   },
-  {
-    "section": "أنشطة وبلاغات",
+   {
+    "section": "الأنشطة",
     "pages": [
-      {
-        "title": "بلاغات",
-        "file": "news.html"
-      },
-      {
-        "title": " أنشطة,
-        "file": "team.html"
-      }
+      { "title": "الأنشطة الماضية", "file": "past.html" },
+      { "title": "الأنشطة القادمة", "file": "future.html" }
     ]
   }
 ]
