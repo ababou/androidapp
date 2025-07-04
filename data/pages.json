@@ -5,8 +5,8 @@
       { "title": "تعريف الجمعية", "file": "intro.html" },
       { "title": "القوانين الأساسية", "file": "rules.html" },
       { "title": "المكتب المسير", "file": "team.html" },
-       { "title": "من نحن", "file": "about.html" },
-      { "title": "الرؤية والرسالة", "file": "vision.html" }
+       { "title": "من نحن", "file": "intro.html" },
+      { "title": "الرؤية والرسالة", "file": "intro.html" }
     ]
   },
   {
@@ -18,8 +18,8 @@
    {
     "section": "الأنشطة",
     "pages": [
-      { "title": "الأنشطة الماضية", "file": "past.html" },
-      { "title": "الأنشطة القادمة", "file": "future.html" }
+      { "title": "الأنشطة الماضية", "file": "team.html" },
+      { "title": "الأنشطة القادمة", "file": "news.html" }
     ]
   }
 ]
