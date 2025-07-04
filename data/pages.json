@@ -21,5 +21,9 @@
       { "title": "الأنشطة الماضية", "file": "team.html" },
       { "title": "الأنشطة القادمة", "file": "news.html" }
     ]
-  }
+  },
+    {
+      "title": "تسجيل الانخراط",
+      "file": "register.html"
+    }
 ]
