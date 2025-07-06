@@ -1,0 +1,22 @@
+{
+  "associations": [
+    {
+      "id": "asso1",
+      "name": "جمعية الوعي",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/asso1.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/asso1/sections.json"
+    },
+    {
+      "id": "umt",
+      "name": "الاتحاد المغربي للشغل (U.M.T)",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/umt.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/umt/sections.json"
+    },
+    {
+      "id": "cgt",
+      "name": "الكنفدرالية العامة للشغل (C.G.T)",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/cgt.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/cgt/sections.json"
+    }
+  ]
+}
