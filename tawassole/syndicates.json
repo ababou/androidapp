@@ -1,22 +1,46 @@
 {
-  "associations": [
+  "syndicciations": [
     {
-      "id": "asso1",
-      "name": "جمعية الوعي",
-      "logo": "https://ababou.github.io/androidapp/tawassole/logos/asso1.png",
-      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/asso1/sections.json"
+      "id": "syndic1",
+      "name": " المصالح المركزية",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic1.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic1/sections.json"
     },
     {
-      "id": "umt",
-      "name": "الاتحاد المغربي للشغل (U.M.T)",
-      "logo": "https://ababou.github.io/androidapp/tawassole/logos/umt.png",
-      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/umt/sections.json"
+      "id": "syndic2",
+      "name": "مقاطعة اليوسفية ",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic2.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic2/sections.json"
+    },
+
+ 
+    {
+      "id": "syndic3",
+      "name": "مقاطعة سويسي",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic3.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic3/sections.json"
     },
     {
-      "id": "cgt",
-      "name": "الكنفدرالية العامة للشغل (C.G.T)",
-      "logo": "https://ababou.github.io/androidapp/tawassole/logos/cgt.png",
-      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/cgt/sections.json"
+      "id": "syndic4",
+      "name": " اكدال الرياض ",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/cgtasso4.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic4/sections.json"
+    }
+    ,
+    {
+      "id": "syndic5",
+      "name": "  يعقوب المنصور",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic5.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic5/sections.json"
+    }
+    ,
+    {
+      "id": "syndic6",
+      "name": " حسان",
+      "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic6.png",
+      "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic6/sections.json"
     }
   ]
 }
+
+
