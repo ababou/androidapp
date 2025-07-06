@@ -1,28 +1,22 @@
 {
-  "sections": [
+  "associations": [
     {
-      "title": "القوانين",
-      "icon": "https://raw.githubusercontent.com/tawassolapp/data/main/icons/laws.png",
-      "type": "web",
-      "url": "https://raw.githubusercontent.com/tawassolapp/data/main/asso1/laws.html"
+      "id": "asso1",
+      "name": "جمعية الوعي",
+      "logo": "https://raw.githubusercontent.com/tawassolapp/data/main/logos/asso1.png",
+      "sectionsUrl": "https://raw.githubusercontent.com/tawassolapp/data/main/asso1/sections.json"
     },
     {
-      "title": "البلاغات",
-      "icon": "https://raw.githubusercontent.com/tawassolapp/data/main/icons/notices.png",
-      "type": "web",
-      "url": "https://raw.githubusercontent.com/tawassolapp/data/main/asso1/notices.html"
+      "id": "umt",
+      "name": "الاتحاد المغربي للشغل (U.M.T)",
+      "logo": "https://raw.githubusercontent.com/tawassolapp/data/main/logos/umt.png",
+      "sectionsUrl": "https://raw.githubusercontent.com/tawassolapp/data/main/umt/sections.json"
     },
     {
-      "title": "المكتب",
-      "icon": "https://raw.githubusercontent.com/tawassolapp/data/main/icons/team.png",
-      "type": "web",
-      "url": "https://raw.githubusercontent.com/tawassolapp/data/main/asso1/team.html"
-    },
-    {
-      "title": "الانخراط",
-      "icon": "https://raw.githubusercontent.com/tawassolapp/data/main/icons/form.png",
-      "type": "web",
-      "url": "https://raw.githubusercontent.com/tawassolapp/data/main/asso1/join.html"
+      "id": "cgt",
+      "name": "الكنفدرالية العامة للشغل (C.G.T)",
+      "logo": "https://raw.githubusercontent.com/tawassolapp/data/main/logos/cgt.png",
+      "sectionsUrl": "https://raw.githubusercontent.com/tawassolapp/data/main/cgt/sections.json"
     }
   ]
 }
