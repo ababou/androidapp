@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "title": "القوانين",
+      "icon": "https://raw.githubusercontent.com/youruser/yourrepo/main/icons/laws.png",
+      "type": "web",
+      "url": "https://raw.githubusercontent.com/youruser/yourrepo/main/asso1/laws.html"
+    },
+    {
+      "title": "البلاغات",
+      "icon": "https://raw.githubusercontent.com/youruser/yourrepo/main/icons/notices.png",
+      "type": "web",
+      "url": "https://raw.githubusercontent.com/youruser/yourrepo/main/asso1/notices.html"
+    },
+    {
+      "title": "المكتب",
+      "icon": "https://raw.githubusercontent.com/youruser/yourrepo/main/icons/team.png",
+      "type": "web",
+      "url": "https://raw.githubusercontent.com/youruser/yourrepo/main/asso1/team.html"
+    },
+    {
+      "title": "الانخراط",
+      "icon": "https://raw.githubusercontent.com/youruser/yourrepo/main/icons/form.png",
+      "type": "web",
+      "url": "https://raw.githubusercontent.com/youruser/yourrepo/main/asso1/join.html"
+    }
+  ]
+}
