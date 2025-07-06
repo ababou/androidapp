@@ -1,0 +1,28 @@
+{
+  "sections": [
+    {
+      "title": "القوانين",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/laws.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/laws.html"
+    },
+    {
+      "title": "البلاغات",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/notices.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/notices.html"
+    },
+    {
+      "title": "المكتب",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/team.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/team.html"
+    },
+    {
+      "title": "الانخراط",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/form.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/join.html"
+    }
+  ]
+}
