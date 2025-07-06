@@ -1,22 +1,28 @@
 {
-  "associations": [
+  "sections": [
     {
-      "id": "asso1",
-      "name": "جمعية الوعي",
-      "logo": "https://raw.githubusercontent.com/tawassolapp/data/main/logos/asso1.png",
-      "sectionsUrl": "https://raw.githubusercontent.com/tawassolapp/data/main/asso1/sections.json"
+      "title": "القوانين",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/laws.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/laws.html"
     },
     {
-      "id": "umt",
-      "name": "الاتحاد المغربي للشغل (U.M.T)",
-      "logo": "https://raw.githubusercontent.com/tawassolapp/data/main/logos/umt.png",
-      "sectionsUrl": "https://raw.githubusercontent.com/tawassolapp/data/main/umt/sections.json"
+      "title": "البلاغات",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/notices.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/notices.html"
     },
     {
-      "id": "cgt",
-      "name": "الكنفدرالية العامة للشغل (C.G.T)",
-      "logo": "https://raw.githubusercontent.com/tawassolapp/data/main/logos/cgt.png",
-      "sectionsUrl": "https://raw.githubusercontent.com/tawassolapp/data/main/cgt/sections.json"
+      "title": "المكتب",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/team.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/team.html"
+    },
+    {
+      "title": "الانخراط",
+      "icon": "https://ababou.github.io/androidapp/tawassole/icons/form.png",
+      "type": "web",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/join.html"
     }
   ]
 }
