@@ -39,6 +39,13 @@
       "name": " حسان",
       "logo": "https://ababou.github.io/androidapp/tawassole/logos/asso6.png",
       "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/asso6/sections.json"
+    },
+
+    {
+      "id": "rate",
+      "name": "⭐ قيّم التطبيق",
+      "logo": "https://ababou.github.io/androidapp/tawassole/icons/rate.png",
+      "isSpecial": true
     }
   ]
 }
