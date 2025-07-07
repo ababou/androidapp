@@ -48,7 +48,7 @@
       "title": "الانخراط",
         "icon": "https://ababou.github.io/androidapp/tawassole/icons/form.png",
       "type": "form",
-      "action": "join"
+      "url": "join"
     }
   ]
 }
