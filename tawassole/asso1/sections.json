@@ -9,8 +9,8 @@
     {
       "title": "البلاغات",
       "icon": "https://ababou.github.io/androidapp/tawassole/icons/notices.png",
-      "type": "web",
-      "url": "https://ababou.github.io/androidapp/tawassole/asso1/notices.html"
+       "type": "notices",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/notices.json"
     },
     {
       "title": "المكتب",
