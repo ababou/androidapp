@@ -45,7 +45,7 @@
       "id": "rate",
       "name": "⭐ قيّم التطبيق",
       "logo": "https://ababou.github.io/androidapp/tawassole/icons/rate.png",
-      "isSpecial": true
+      "sectionsUrl": "local"
     }
   ]
 }
