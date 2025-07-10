@@ -9,8 +9,8 @@
     {
       "title": "البلاغات",
       "icon": "https://ababou.github.io/androidapp/tawassole/icons/notices.png",
-      "type": "web",
-      "url": "https://ababou.github.io/androidapp/tawassole/asso1/notices.html"
+       "type": "notices",
+      "url": "https://ababou.github.io/androidapp/tawassole/asso1/notices.json"
     },
     {
       "title": "المكتب",
@@ -18,11 +18,15 @@
       "type": "web",
       "url": "https://ababou.github.io/androidapp/tawassole/asso1/team.html"
     },
+    
     {
       "title": "الانخراط",
-      "icon": "https://ababou.github.io/androidapp/tawassole/icons/form.png",
-      "type": "web",
-      "url": "https://ababou.github.io/androidapp/tawassole/asso1/join.html"
+        "icon": "https://ababou.github.io/androidapp/tawassole/icons/form.png",
+      "type": "form",
+      "url": "join"
     }
+  ]
+}
+
   ]
 }
