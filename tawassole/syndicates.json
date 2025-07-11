@@ -2,13 +2,13 @@
   "syndicates": [
     {
       "id": "syndic1",
-      "name": " المصالح المركزية",
+      "name": "  نقابة1",
       "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic1.png",
       "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic1/sections.json"
     },
     {
       "id": "syndic2",
-      "name": "مقاطعة اليوسفية ",
+      "name": "نقابة2  ",
       "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic2.png",
       "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic2/sections.json"
     },
@@ -16,20 +16,20 @@
  
     {
       "id": "syndic3",
-      "name": "مقاطعة سويسي",
+      "name": " نقابة3",
       "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic3.png",
       "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic3/sections.json"
     },
     {
       "id": "syndic4",
-      "name": " اكدال الرياض ",
+      "name": " نقابة4  ",
       "logo": "https://ababou.github.io/androidapp/tawassole/logos/cgtasso4.png",
       "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic4/sections.json"
     }
     ,
     {
       "id": "syndic5",
-      "name": "  يعقوب المنصور",
+      "name": "   نقابة5",
       "logo": "https://ababou.github.io/androidapp/tawassole/logos/syndic5.png",
       "sectionsUrl": "https://ababou.github.io/androidapp/tawassole/syndic5/sections.json"
     }
