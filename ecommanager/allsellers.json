@@ -2,14 +2,14 @@
   {
     "sellerName": "seller1",
     "productsUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1/produits.json",
-    "imageBaseUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1/",
+    "imageBaseUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1",
     "codeSeller": "SELLER1",
     "phoneNumber": "+212611173834"
   },
   {
     "sellerName": "seller2",
     "productsUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1/produits.json",
-    "imageBaseUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1/",
+    "imageBaseUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1",
     "codeSeller": "SELLER2",
     "phoneNumber": "+212661309444"
   }
