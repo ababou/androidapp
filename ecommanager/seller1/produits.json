@@ -1,12 +1,12 @@
 [{"description":"يدوية","id":1,
-"image":"/images/p1",
+"image":"p1",
 "name":"ساعة",
 "price":20.0,
 "stock":100
 },
 {"description":"بوماظة",
 "id":2,
-"image":"/images/p2",
+"image":"p2",
 "name":"رجل",
 "price":232.0,
 "stock":556}]
