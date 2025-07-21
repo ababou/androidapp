@@ -8,8 +8,8 @@
   },
   {
     "sellerName": "seller2",
-    "productUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller2/produits.json",
-    "imageBaseUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller2",
+    "productUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1/produits.json",
+    "imageBaseUrl": "https://raw.githubusercontent.com/ababou/androidapp/main/ecommanager/seller1",
     "codeSeller": "SELLER2",
     "phoneNumber": "+212661309444"
   }
