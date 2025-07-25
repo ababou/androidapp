@@ -1,6 +1,12 @@
 [
-  {"reference":"REQ2025-666384","max":50},
-  {"reference":"REQ2025-002","max":100}
-  ,
-  {"reference":"REQ2025-327224","max":10}
+  {
+    "reference": "REF2025-001",
+    "code": "ABC123",
+    "max": 200
+  },
+  {
+    "reference": "REF2025-002",
+    "code": "XYZ456",
+    "max": 100
+  }
 ]
