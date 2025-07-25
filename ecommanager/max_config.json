@@ -1,11 +1,11 @@
 [
   {
-    "reference": "REF2025-541287",
+    "reference": "REQ2025-541287",
     "code": "ABC123",
     "max": 20
   },
   {
-    "reference": "REF2025-002",
+    "reference": "REQ2025-002",
     "code": "XYZ456",
     "max": 10
   }
