@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "districtId": "101",
+    "party": "حزب الأمل",
+    "name": "اللائحة المختلطة",
+    "agent": { "name": "أحمد بن علي", "photo": "https://cdn.pixabay.com/photo/2014/04/03/10/41/person-311134_1280.png" },
+    "team": [
+      { "name": "فاطمة الزهراء", "photo": "https://cdn.pixabay.com/photo/2014/04/03/10/41/person-311134_1280.png" },
+      { "name": "محمد يوسف", "photo": "https://cdn.pixabay.com/photo/2014/04/03/10/41/person-311134_1280.png" }
+    ]
+  },
+  {
+    "id": "2",
+    "districtId": "101",
+    "party": "حزب الأمل",
+    "name": "اللائحة النسائية",
+    "agent": { "name": "خديجة عمر", "photo": "https://cdn.pixabay.com/photo/2014/04/03/10/41/person-311134_1280.png" },
+    "team": [
+      { "name": "سعاد محمد", "photo": "https://cdn.pixabay.com/photo/2014/04/03/10/41/person-311134_1280.png" },
+      { "name": "ليلى رشيد", "photo": "https://cdn.pixabay.com/photo/2014/04/03/10/41/person-311134_1280.png" }
+    ]
+  }
+]
