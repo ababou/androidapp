@@ -1,0 +1,20 @@
+[
+  {
+    "id": "L1",
+    "type": "مختلطة",
+    "partyId": "P1",
+    "districtId": "D2",
+    "headName": "أحمد العروسيd2 p1",
+    "headPhoto": "https://raw.githubusercontent.com/username/repo/main/photos/ahmed.jpg",
+    "team": ["محمد", "فاطمة", "يوسف"]
+  },
+  {
+    "id": "L2",
+    "type": "نسائية",
+    "partyId": "P2",
+    "districtId": "D2",
+    "headName": "سعاد بنانيd2 p2",
+    "headPhoto": "https://raw.githubusercontent.com/username/repo/main/photos/souad.jpg",
+    "team": ["ليلى", "حنان", "مريم"]
+  }
+]
