@@ -44,7 +44,33 @@
     "districtId": "D1",
     "headName": "أحمد العروسي d1 pp1",
     "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-    "team": ["محمد", "فاطمة", "يوسف"]
+   "team": [
+    {
+      "id": "t1",
+      "name": "فاطمة الزهراء",
+      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
+      "role": "وكيلة",
+      "profession": "أستاذة",
+      "age": 38,
+      "bio": "مختصة في التعليم والتربية",
+      "socialLinks": {
+        "facebook": "https://facebook.com/fatima",
+        "twitter": "https://twitter.com/fatima"
+      },
+      "contact": "fatima@example.com"
+    },
+    {
+      "id": "t2",
+      "name": "خالد بناني",
+      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
+      "role": "عضو الفريق",
+      "profession": "مهندس",
+      "age": 42,
+      "bio": "مهتم بالمشاريع التقنية والبيئية",
+      "socialLinks": {},
+      "contact": "khalid@example.com"
+    }
+  ]
   },
   {
     "id": "L2",
@@ -53,8 +79,35 @@
     "districtId": "D1",
     "headName": "سعاد بنانيd1 p1",
     "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-    "team": ["ليلى", "حنان", "مريم"]
+    "team": [
+    {
+      "id": "t1",
+      "name": "فاطمة الزهراء",
+      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
+      "role": "وكيلة",
+      "profession": "أستاذة",
+      "age": 38,
+      "bio": "مختصة في التعليم والتربية",
+      "socialLinks": {
+        "facebook": "https://facebook.com/fatima",
+        "twitter": "https://twitter.com/fatima"
+      },
+      "contact": "fatima@example.com"
+    },
+    {
+      "id": "t2",
+      "name": "خالد بناني",
+      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
+      "role": "عضو الفريق",
+      "profession": "مهندس",
+      "age": 42,
+      "bio": "مهتم بالمشاريع التقنية والبيئية",
+      "socialLinks": {},
+      "contact": "khalid@example.com"
+    }
+  ]
   }
 ]
+
 
 
