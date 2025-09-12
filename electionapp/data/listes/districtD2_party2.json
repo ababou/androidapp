@@ -2,9 +2,9 @@
   {
     "id": "L1",
     "type": "مختلطة",
-    "partyId": "P1",
+    "partyId": "P2",
     "districtId": "D2",
-    "headName": "أحمد العروسيd2 p1",
+    "headName": "أحمد العروسيd2 p2",
     "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
     "team": ["محمد", "فاطمة", "يوسف"]
   },
@@ -18,4 +18,5 @@
     "team": ["ليلى", "حنان", "مريم"]
   }
 ]
+
 
