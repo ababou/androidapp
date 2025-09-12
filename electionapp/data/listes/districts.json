@@ -1,0 +1,305 @@
+[
+
+
+
+    {"id": "D44", "name": "أوسرد", "prefectureId": "P55", "seats": 1},
+
+
+    {"id": "D43", "name": "وادي الذهب", "prefectureId": "P54", "seats": 1},
+
+
+
+
+
+
+
+
+    {"id": "D52", "name": "الجديدة", "prefectureId": "P63", "seats": 1},
+
+
+
+    {"id": "D00", "name": "", "prefectureId": "P88", "seats": 1},
+
+
+
+    {"id": "D6", "name": "المحمدية", "prefectureId": "P14", "seats": 1},
+
+
+
+    {"id": "D70", "name": "النواصر", "prefectureId": "P81", "seats": 1},
+
+
+
+    {"id": "D91", "name": "برشيد", "prefectureId": "P101", "seats": 1},
+
+
+
+    {"id": "D55", "name": "بنسليمان", "prefectureId": "P66", "seats": 1},
+
+
+
+
+    {"id": "D53", "name": "سطات", "prefectureId": "P64", "seats": 1},
+
+
+
+
+    {"id": "D90", "name": "سيدي بنور", "prefectureId": "P100", "seats": 1},
+
+
+
+    {"id": "D68", "name": "ابن امسيك", "prefectureId": "P79", "seats": 1},
+
+
+
+    {"id": "D63", "name": "الفداء - مرس السلطان", "prefectureId": "P74", "seats": 1},
+
+
+
+    {"id": "D67", "name": "سيدي البرنوصي", "prefectureId": "P78", "seats": 1},
+
+
+
+
+    {"id": "D4", "name": "الخميسات - أولماس", "prefectureId": "P5", "seats": 2},
+    {"id": "D5", "name": "تيفلت - الرماني", "prefectureId": "P5", "seats": 2},
+
+
+
+
+
+
+    {"id": "D1", "name": "الرباط - المحيط", "prefectureId": "P1", "seats": 2},
+    {"id": "D2", "name": "الرباط - شالة", "prefectureId": "P1", "seats": 2},
+
+
+
+
+
+
+    {"id": "D3", "name": "الصخيرات -  تمارة", "prefectureId": "P4", "seats": 1},
+
+
+
+    {"id": "D30", "name": "القنيطرة", "prefectureId": "P37", "seats": 2},
+    {"id": "D31", "name": "الغرب", "prefectureId": "P37", "seats": 2},
+
+
+
+    {"id": "D60", "name": "سلا المدينة", "prefectureId": "P72", "seats": 2},
+
+    {"id": "D61", "name": "سلا الجديدة", "prefectureId": "P72", "seats": 2},
+
+
+
+    {"id": "D84", "name": "سيدي سليمان", "prefectureId": "P94", "seats": 1},
+
+
+    {"id": "D32", "name": "سيدي قاسم", "prefectureId": "P38", "seats": 1},
+
+
+    {"id": "D88", "name": "الدريوش", "prefectureId": "P98", "seats": 1},
+
+    {"id": "D50", "name": "الناضور", "prefectureId": "P61", "seats": 1},
+
+
+
+    {"id": "D47", "name": "بركان", "prefectureId": "P58", "seats": 1},
+
+    {"id": "D48", "name": "تاوريرت", "prefectureId": "P59", "seats": 1},
+
+    {"id": "D46", "name": "جرادة", "prefectureId": "P57", "seats": 1},
+
+
+    {"id": "D82", "name": "جرسيف", "prefectureId": "P92", "seats": 1},
+
+
+    {"id": "D49", "name": "فجيج", "prefectureId": "P60", "seats": 1},
+
+    {"id": "D45", "name": "وجدة - أنجاد", "prefectureId": "P56", "seats": 1},
+
+
+    {"id": "D28", "name": "السمارة", "prefectureId": "P35", "seats": 1},
+
+    {"id": "D33", "name": "العيون", "prefectureId": "P39", "seats": 1},
+
+    {"id": "D34", "name": "بوجدور", "prefectureId": "P40", "seats": 1},
+
+
+    {"id": "D85", "name": "طرفاية", "prefectureId": "P95", "seats": 1},
+
+
+
+
+
+
+    {"id": "D20", "name": ">بزو - واويزاغت<", "prefectureId": "P26", "seats": 2},
+    {"id": "D21", "name": ">أزيلال - دمنات<", "prefectureId": "P26", "seats": 2},
+
+
+
+
+    {"id": "D83", "name": "الفقيه بن صالح", "prefectureId": "P93", "seats": 1},
+
+
+    {"id": "D19", "name": "بني ملال", "prefectureId": "P25", "seats": 1},
+
+
+
+    {"id": "D54", "name": "خريبكة", "prefectureId": "P65", "seats": 1},
+
+
+    {"id": "D41", "name": "خنيفرة", "prefectureId": "P52", "seats": 1},
+
+
+
+
+
+    {"id": "D42", "name": "الرشيدية", "prefectureId": "P53", "seats": 1},
+
+
+
+    {"id": "D81", "name": "تنغير", "prefectureId": "P91", "seats": 1},
+
+
+    {"id": "D14", "name": "زاكورة", "prefectureId": "P21", "seats": 1},
+
+
+    {"id": "D87", "name": "ميدلت", "prefectureId": "P97", "seats": 1},
+
+
+    {"id": "D13", "name": "ورزازات", "prefectureId": "P20", "seats": 1},
+
+
+
+    {"id": "D7", "name": "أكادير -إدا وتنان ",  "prefectureId": "P15", "seats": 1},
+
+
+
+
+    {"id": "D8", "name": "إنزكان-آيت ملول", "prefectureId": "P16", "seats": 1},
+
+
+
+    {"id": "D9", "name": "اشتوكة-آيت باها", "prefectureId": "P17", "seats": 1},
+
+
+    {"id": "D10", "name": "تارودانت الجنوبية", "prefectureId": "P18", "seats": 2},
+    {"id": "D11", "name": "تارودانت الشمالية", "prefectureId": "P18", "seats": 2},
+
+
+
+
+    {"id": "D12", "name": "تيزنيت", "prefectureId": "P19", "seats": 1},
+
+
+
+    {"id": "D26", "name": "طاطا", "prefectureId": "P33", "seats": 1},
+
+
+
+    {"id": "D15", "name": "الحسيمة", "prefectureId": "P22", "seats": 1},
+
+    {"id": "D58", "name": "العرائش", "prefectureId": "P70", "seats": 1},
+
+
+    {"id": "D79", "name": "المضيق - الفنيدق", "prefectureId": "P87", "seats": 1},
+
+
+
+    {"id": "D57", "name": "تطوان", "prefectureId": "P69", "seats": 1},
+
+
+    {"id": "D59", "name": "شفشاون", "prefectureId": "P71", "seats": 1},
+
+
+    {"id": "D56", "name": "طنجة - أصيلة", "prefectureId": "P67", "seats": 1},
+
+
+    {"id": "D78", "name": "الفحص - أنجرة", "prefectureId": "P86", "seats": 1},
+
+
+    {"id": "D92", "name": "وزان", "prefectureId": "P102", "seats": 1},
+
+
+
+    {"id": "D39", "name": "الحاجب", "prefectureId": "P50", "seats": 1},
+
+
+    {"id": "D40", "name": "إفران", "prefectureId": "P51", "seats": 1},
+
+
+    {"id": "D24", "name": "بولمان", "prefectureId": "P31", "seats": 1},
+
+
+    {"id": "D16", "name": "تازة", "prefectureId": "P23", "seats": 1},
+
+
+    {"id": "D17", "name": "تاونات - تيسة", "prefectureId": "P24", "seats": 2},
+    {"id": "D18", "name": "القرية - غفساي", "prefectureId": "P24", "seats": 2},
+
+
+
+    {"id": "D23", "name": "صفرو", "prefectureId": "P30", "seats": 1},
+
+
+    {"id": "D72", "name": "فاس الجنوبية", "prefectureId": "P83", "seats": 2},
+
+    {"id": "D73", "name": "فاس الشمالية", "prefectureId": "P83", "seats": 2},
+
+
+
+    {"id": "D77", "name": "مكناس", "prefectureId": "P85", "seats": 1},
+
+
+    {"id": "D22", "name": "مولاي يعقوب", "prefectureId": "P29", "seats": 1},
+
+
+
+    {"id": "D27", "name": "أسا - الزاك", "prefectureId": "P34", "seats": 1},
+
+
+
+    {"id": "D80", "name": "سيدي إفني", "prefectureId": "P90", "seats": 1},
+
+
+
+    {"id": "D29", "name": "طانطان", "prefectureId": "P36", "seats": 1},
+
+
+    {"id": "D25", "name": "كلميم", "prefectureId": "P32", "seats": 1},
+
+
+
+
+    {"id": "D51", "name": "أسفي", "prefectureId": "P62", "seats": 1},
+
+
+
+    {"id": "D36", "name": "الحوز", "prefectureId": "P45", "seats": 1},
+
+
+
+    {"id": "D86", "name": "الرحامنة", "prefectureId": "P96", "seats": 1},
+
+
+
+    {"id": "D38", "name": "الصويرة", "prefectureId": "P47", "seats": 1},
+
+
+
+    {"id": "D89", "name": "اليوسفية", "prefectureId": "P99", "seats": 1},
+
+
+    {"id": "D35", "name": "شيشاوة", "prefectureId": "P44", "seats": 1},
+
+
+
+    {"id": "D37", "name": "قلعة السراغنة", "prefectureId": "P46", "seats": 1},
+
+
+
+    {"id": "D74", "name": "المنارة", "prefectureId": "P84", "seats": 3},
+    {"id": "D75", "name": "جليز - النخيل", "prefectureId": "P84", "seats": 3},
+    {"id": "D76", "name": "المدينة - سيدي يوسف بن علي", "prefectureId": "P84", "seats": 3}
+]
