@@ -5,7 +5,7 @@
     "partyId": "P1",
     "districtId": "D1",
     "headName": "أحمد العروسي d1 pp1",
-    "headPhoto": "https://raw.githubusercontent.com/username/repo/main/photos/ahmed.jpg",
+    "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
     "team": ["محمد", "فاطمة", "يوسف"]
   },
   {
@@ -14,7 +14,8 @@
     "partyId": "P1",
     "districtId": "D1",
     "headName": "سعاد بنانيd1 p1",
-    "headPhoto": "https://raw.githubusercontent.com/username/repo/main/photos/souad.jpg",
+    "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
     "team": ["ليلى", "حنان", "مريم"]
   }
 ]
+
