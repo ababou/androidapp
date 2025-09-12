@@ -9,17 +9,18 @@
     "team": [
       {
         "name": "محمد بنعيسى",
-        "job": "أستاذ",
+        "profession": "أستاذ",
         "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png"
       },
       {
         "name": "فاطمة الزهراء",
-        "job": "محامية",
+        "profession": "محامية",
         "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png"
       }
     ]
   }
 ]
+
 
 
 
