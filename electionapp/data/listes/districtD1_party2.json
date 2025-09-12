@@ -1,112 +1,25 @@
 [
-
-  {
-  "districtId": "D1",
-  "partyId": "P1",
-  "headName": "محمد الأمين",
-  "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-  "headProfession": "محامي",
-  "headAge": 45,
-  "headBio": "لديه خبرة طويلة في القانون والعمل الاجتماعي",
-  "team": [
-    {
-      "id": "t1",
-      "name": "فاطمة الزهراء",
-      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-      "role": "وكيلة",
-      "profession": "أستاذة",
-      "age": 38,
-      "bio": "مختصة في التعليم والتربية",
-      "socialLinks": {
-        "facebook": "https://facebook.com/fatima",
-        "twitter": "https://twitter.com/fatima"
-      },
-      "contact": "fatima@example.com"
-    },
-    {
-      "id": "t2",
-      "name": "خالد بناني",
-      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-      "role": "عضو الفريق",
-      "profession": "مهندس",
-      "age": 42,
-      "bio": "مهتم بالمشاريع التقنية والبيئية",
-      "socialLinks": {},
-      "contact": "khalid@example.com"
-    }
-  ]
-}
-
   {
     "id": "L1",
     "type": "مختلطة",
     "partyId": "P1",
     "districtId": "D1",
-    "headName": "أحمد العروسي d1 pp1",
-    "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-   "team": [
-    {
-      "id": "t1",
-      "name": "فاطمة الزهراء",
-      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-      "role": "وكيلة",
-      "profession": "أستاذة",
-      "age": 38,
-      "bio": "مختصة في التعليم والتربية",
-      "socialLinks": {
-        "facebook": "https://facebook.com/fatima",
-        "twitter": "https://twitter.com/fatima"
-      },
-      "contact": "fatima@example.com"
-    },
-    {
-      "id": "t2",
-      "name": "خالد بناني",
-      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-      "role": "عضو الفريق",
-      "profession": "مهندس",
-      "age": 42,
-      "bio": "مهتم بالمشاريع التقنية والبيئية",
-      "socialLinks": {},
-      "contact": "khalid@example.com"
-    }
-  ]
-  },
-  {
-    "id": "L2",
-    "type": "نسائية",
-    "partyId": "P1",
-    "districtId": "D1",
-    "headName": "سعاد بنانيd1 p1",
+    "headName": "أحمد العروسي",
     "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
     "team": [
-    {
-      "id": "t1",
-      "name": "فاطمة الزهراء",
-      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-      "role": "وكيلة",
-      "profession": "أستاذة",
-      "age": 38,
-      "bio": "مختصة في التعليم والتربية",
-      "socialLinks": {
-        "facebook": "https://facebook.com/fatima",
-        "twitter": "https://twitter.com/fatima"
+      {
+        "name": "محمد بنعيسى",
+        "job": "أستاذ",
+        "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png"
       },
-      "contact": "fatima@example.com"
-    },
-    {
-      "id": "t2",
-      "name": "خالد بناني",
-      "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-      "role": "عضو الفريق",
-      "profession": "مهندس",
-      "age": 42,
-      "bio": "مهتم بالمشاريع التقنية والبيئية",
-      "socialLinks": {},
-      "contact": "khalid@example.com"
-    }
-  ]
+      {
+        "name": "فاطمة الزهراء",
+        "job": "محامية",
+        "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png"
+      }
+    ]
   }
 ]
+
 
 
