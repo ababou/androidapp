@@ -1,0 +1,321 @@
+
+
+ [
+
+
+   {"id": "P55", "name": "أوسرد", "regionId": "R12"},
+
+
+   {"id": "P54", "name": "وادي الذهب", "regionId": "R12"},
+
+
+
+   {"id": "P63", "name": "الجديدة", "regionId": "R6"},
+
+
+
+   {"id": "P88", "name": "الدار البيضاء", "regionId": "R6"},
+
+
+   {"id": "P14", "name": "المحمدية", "regionId": "R6"},
+
+
+
+   {"id": "P81", "name": "النواصر", "regionId": "R6"},
+
+
+
+   {"id": "P101", "name": "برشيد", "regionId": "R6"},
+
+
+   {"id": "P66", "name": "بنسليمان", "regionId": "R6"},
+
+
+
+
+
+   {"id": "P64", "name": "سطات", "regionId": "R6"},
+
+
+
+
+
+
+   {"id": "P100", "name": "سيدي بنور", "regionId": "R6"},
+
+
+
+
+   {"id": "P79", "name": "عمالة مقاطعات ابن مسيك", "regionId": "R6"},
+
+
+
+
+   {"id": "P74", "name": "عمالة مقاطعات الفداء مرس السلطان", "regionId": "R6"},
+
+
+
+   {"id": "P78", "name": "عمالة مقاطعات سيدي البرنوصي", "regionId": "R6"},
+
+
+
+
+
+
+
+
+
+   {"id": "P5", "name": "الخميسات", "regionId": "R4"},
+
+
+
+   {"id": "P1", "name": "الرباط", "regionId": "R4"},
+
+
+
+
+   {"id": "P4", "name": "الصخيرات تمارة", "regionId": "R4"},
+
+
+
+
+   {"id": "P37", "name": "القنيطرة", "regionId": "R4"},
+
+
+
+
+
+   {"id": "P72", "name": "سلا", "regionId": "R4"},
+
+
+
+   {"id": "P94", "name": "سيدي سليمان", "regionId": "R4"},
+
+
+   {"id": "P38", "name": "سيدي قاسم", "regionId": "R4"},
+
+
+
+   {"id": "P98", "name": "الدريوش", "regionId": "R2"},
+
+
+
+   {"id": "P61", "name": "الناضور", "regionId": "R2"},
+
+
+
+
+
+   {"id": "P58", "name": "بركان", "regionId": "R2"},
+
+
+   {"id": "P59", "name": "تاوريرت", "regionId": "R2"},
+
+   {"id": "P57", "name": "جرادة", "regionId": "R2"},
+
+
+
+   {"id": "P92", "name": "جرسيف", "regionId": "R2"},
+
+
+
+   {"id": "P60", "name": "فجيج", "regionId": "R2"},
+
+
+
+   {"id": "P56", "name": "وجدة أنكاد", "regionId": "R2"},
+
+
+
+
+   {"id": "P35", "name": "السمارة", "regionId": "R11"},
+
+
+
+   {"id": "P39", "name": "العيون", "regionId": "R11"},
+
+   {"id": "P40", "name": "بوجدور", "regionId": "R11"},
+
+   {"id": "P95", "name": "طرفاية", "regionId": "R11"},
+
+
+
+   {"id": "P26", "name": "أزيلال", "regionId": "R5"},
+
+
+   {"id": "P93", "name": "الفقيه بنصالح", "regionId": "R5"},
+
+
+
+   {"id": "P25", "name": "بني ملال", "regionId": "R5"},
+
+
+   {"id": "P65", "name": "خريبكة", "regionId": "R5"},
+
+   {"id": "P52", "name": "خنيفرة", "regionId": "R5"},
+
+
+
+
+   {"id": "P53", "name": "الرشيدية", "regionId": "R8"},
+
+
+
+   {"id": "P91", "name": "تنغير", "regionId": "R8"},
+
+
+   {"id": "P21", "name": "زاكورة", "regionId": "R8"},
+
+   {"id": "P97", "name": "ميدلت", "regionId": "R8"},
+
+   {"id": "P20", "name": "ورزازات", "regionId": "R8"},
+
+
+   {"id": "P15", "name": "أكادير- إدا وتنان", "regionId": "R9"},
+
+
+   {"id": "P16", "name": "إنزكان أيت ملول", "regionId": "R9"},
+
+
+   {"id": "P17", "name": "اشتوكة ايت باها", "regionId": "R9"},
+
+
+   {"id": "P18", "name": "تارودانت", "regionId": "R9"},
+
+
+
+
+   {"id": "P19", "name": "تيزنيت", "regionId": "R9"},
+
+
+
+   {"id": "P33", "name": "طاطا", "regionId": "R9"},
+
+
+   {"id": "P22", "name": "الحسيمة", "regionId": "R1"},
+
+
+
+   {"id": "P70", "name": "العرائش", "regionId": "R1"},
+
+   {"id": "P87", "name": "المضيق الفنيدق", "regionId": "R1"},
+
+
+   {"id": "P69", "name": "تطوان", "regionId": "R1"},
+
+
+   {"id": "P71", "name": "شفشاون", "regionId": "R1"},
+
+   {"id": "P67", "name": "طنجة أصيلة", "regionId": "R1"},
+
+
+   {"id": "P86", "name": ">فحص أنجرة<", "regionId": "R1"},
+
+
+   {"id": "P102", "name": "وزان", "regionId": "R1"},
+
+
+
+
+
+   {"id": "P50", "name": "الحاجب",  "regionId": "R3"},
+
+
+
+
+
+   {"id": "P51", "name": "ايفران",  "regionId": "R3"},
+
+
+
+
+
+   {"id": "P31", "name": "بولمان",  "regionId": "R3"},
+
+
+
+
+   {"id": "P23", "name": "تازة",  "regionId": "R3"},
+
+
+
+
+
+   {"id": "P24", "name": "تاونات",  "regionId": "R3"},
+
+
+
+   {"id": "P30", "name": "صفرو",  "regionId": "R3"},
+
+
+
+
+
+   {"id": "P83", "name": "فاس",  "regionId": "R3"},
+
+
+
+
+
+   {"id": "P85", "name": "مكناس",  "regionId": "R3"},
+
+
+
+   {"id": "P29", "name": "مولاي يعقوب",  "regionId": "R3"},
+
+
+
+   {"id": "P34", "name": "أسا - الزاك",  "regionId": "R10"},
+
+
+   {"id": "P90", "name": "سيدي إفني",  "regionId": "R10"},
+
+
+   {"id": "P36", "name": "طانطان",  "regionId": "R10"},
+
+
+   {"id": "P32", "name": "كلميم",  "regionId": "R10"},
+
+
+
+
+   {"id": "P62", "name": "أسفي", "regionId": "R7"},
+
+
+
+
+   {"id": "P45", "name": "الحوز", "regionId": "R7"},
+
+
+
+
+   {"id": "P96", "name": "الرحامنة", "regionId": "R7"},
+
+
+
+
+   {"id": "P47", "name": "الصويرة", "regionId": "R7"},
+
+
+
+
+   {"id": "P99", "name": "اليوسفية", "regionId": "R7"},
+
+
+
+   {"id": "P44", "name": "شيشاوة", "regionId": "R7"},
+
+
+
+
+   {"id": "P46", "name": "قلعة السراغنة", "regionId": "R7"},
+
+
+
+   {"id": "P84", "name": "مراكش", "regionId": "R7"}
+
+
+
+
+ ]
+
