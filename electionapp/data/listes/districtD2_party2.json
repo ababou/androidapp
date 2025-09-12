@@ -2,21 +2,25 @@
   {
     "id": "L1",
     "type": "مختلطة",
-    "partyId": "P2",
-    "districtId": "D2",
-    "headName": "أحمد العروسيd2 p2",
+    "partyId": "P1",
+    "districtId": "D1",
+    "headName": "أحمد العروسي",
     "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-    "team": ["محمد", "فاطمة", "يوسف"]
-  },
-  {
-    "id": "L2",
-    "type": "نسائية",
-    "partyId": "P2",
-    "districtId": "D2",
-    "headName": "سعاد بنانيd2 p2",
-    "headPhoto": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png",
-    "team": ["ليلى", "حنان", "مريم"]
+    "team": [
+      {
+        "name": "محمد بنعيسى",
+        "profession": "أستاذ",
+        "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png"
+      },
+      {
+        "name": "فاطمة الزهراء",
+        "profession": "محامية",
+        "photo": "https://d2pas86kykpvmq.cloudfront.net/images/humans-3.0/portrait-2.png"
+      }
+    ]
   }
 ]
+
+
 
 
