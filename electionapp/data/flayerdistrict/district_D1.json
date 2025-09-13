@@ -7,9 +7,9 @@
       "type": "مختلطة",
       "partyId": "P1",
       "partyName": "حزب الاستقلال",
-      "headName": "أحمد العروسي",
+      "headName": "عبد الله اميس",
         "headPhoto": "https://images.icon-icons.com/1879/PNG/512/iconfinder-3-avatar-2754579_120516.png",
-      "flyer": "https://aujourdhui.ma/wp-content/uploads/2021/09/0-Abdessadik-El-Bouazzaoui-tete-de-liste-pour-les-communales-.png?x59244"
+      "flyer": "https://www.istiqlal.info/photo/art/default/23867612-25956046.jpg?v=1532039817"
    
     },
     {
@@ -17,16 +17,16 @@
       "type": "نساء",
       "partyId": "P2",
       "partyName": "حزب العدالة والتنمية",
-      "headName": "فاطمة الزهراء",
+      "headName": "حسن منترة",
       "headPhoto": "https://images.icon-icons.com/1879/PNG/512/iconfinder-3-avatar-2754579_120516.png",
-      "flyer": "https://aujourdhui.ma/wp-content/uploads/2021/09/0-Abdessadik-El-Bouazzaoui-tete-de-liste-pour-les-communales-.png?x59244"
+      "flyer": "https://ar.yabiladi.com/img/content/election_/Sans_titre2.jpg"
     },
     {
       "id": "L3",
-      "type": "شباب",
+      "type": "مختلطة",
       "partyId": "P3",
-      "partyName": "حزب التجمع الوطني للأحرار",
-      "headName": "محمد بنعيسى",
+      "partyName": "تحالف فدرالية اليسار",
+      "headName": "يحيى البياري",
      "headPhoto": "https://images.icon-icons.com/1879/PNG/512/iconfinder-3-avatar-2754579_120516.png",
       "flyer": "https://images.skynewsarabia.com/images/v1/2021/08/31/1460531/800/600/1-1460531.JPG"
     }
