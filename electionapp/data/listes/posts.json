@@ -1,8 +1,8 @@
 
 [
   {
-    "id": "L1",
-    "candidateId": "C1",
+    "id": "P1",
+    "candidateId": "L1",
     "type" :"video",
     "title": "برنامج انتخابي للتعليم",
     "content": "نلتزم بتطوير البنية التحتية للمدارس وتعميم الأنشطة الثقافية.",
@@ -10,17 +10,17 @@
 
   },
   {
-    "id": "L2",
-    "candidateId": "C1",
-    "type" :"video",
+    "id": "P2",
+    "candidateId": "L1",
+    "type" :"FLYER",
     "title": "الصحة للجميع",
     "content": "إنشاء مستشفيات محلية جديدة وتوفير الأطباء المتخصصين.",
     "url": "https://www.youtube.com/watch?v=bWyipTUL0jk",
 
   },
   {
-    "id": "L3",
-    "candidateId": "C3",
+    "id": "P3",
+    "candidateId": "L3",
     "type" :"video",
     "title": "التشغيل للشباب",
     "content": "خلق فرص عمل جديدة عبر دعم المقاولات الصغرى والمتوسطة.",
