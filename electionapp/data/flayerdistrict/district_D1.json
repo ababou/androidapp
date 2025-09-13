@@ -1,0 +1,20 @@
+[
+  {
+    "id": "L1",
+    "type": "مختلطة",
+    "partyId": "P1",
+    "districtId": "D1",
+    "headName": "أحمد العروسي",
+    "headPhoto": "url",
+    "team": [...]
+  },
+  {
+    "id": "L2",
+    "type": "نسائية",
+    "partyId": "P2",
+    "districtId": "D1",
+    "headName": "فاطمة الصديقي",
+    "headPhoto": "url",
+    "team": [...]
+  }
+]
