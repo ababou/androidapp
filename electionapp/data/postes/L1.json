@@ -1,6 +1,6 @@
 [
-  {"id" :"poste1","headerId";"L1", "type": "text", "content": "مرحبا بكم فالحملة الانتخابية ديالنا 🌟" },
-  {"id" :"poste1","headerId";"L1", "type": "image", "content": "https://picsum.photos/400/200" },
-  { "id" :"poste1","headerId";"L1","type": "video", "content": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+  { "type": "text", "content": "مرحبا بكم فالحملة الانتخابية ديالنا 🌟" },
+  { "type": "image", "content": "https://picsum.photos/400/200" },
+  { "type": "video", "content": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
 ]
 
