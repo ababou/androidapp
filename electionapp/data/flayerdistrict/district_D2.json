@@ -1,1 +1,26 @@
-
+ [
+    {
+      "id": "L1",
+      "districtId": "D2",
+      "type": "image",
+        "url": "https://www.istiqlal.info/photo/art/default/23867612-25956046.jpg?v=1532039817",
+      "title": "jjjjkkkkkk"
+   
+    },
+     {
+      "id": "L2",
+      "districtId": "D2",
+      "type": "image",
+         "url": "https://www.istiqlal.info/photo/art/default/23867612-25956046.jpg?v=1532039817",
+      "title": "jjjjkkkkkk"
+   
+    },
+     {
+      "id": "L3",
+      "districtId": "D2",
+      "type": "image",
+      "url": "https://www.istiqlal.info/photo/art/default/23867612-25956046.jpg?v=1532039817",
+      "title": "jjjjkkkkkk"
+   
+    }
+  ]
