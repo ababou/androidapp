@@ -5,7 +5,9 @@
       "districtId": "D1",
       "type": "image",
         "url": "https://cdn4.premiumread.com/?url=https://ahdath.info/uploads/imported_images/uploads/2021/09/IMG-20210905-WA0030.jpg&w=400&q=72&f=jpg&t=2",
-      "title": "وكيل حزب الكتاب بتابريكت ودائرة سلا المدينة"
+      "title": "وكيل حزب الكتاب بتابريكت ودائرة سلا المدينة",
+      "partyId": "P1"
+     
    
     },
      {
@@ -13,7 +15,8 @@
       "districtId": "D1",
       "type": "image",
          "url": "https://bayanealyaoume.press.ma/wp-content/uploads/2021/09/Sans-titre-37.fw_-1.png",
-      "title": "محمد عواد وكيل لائحة الدائرة الانتخابية لسلا المدينة"
+      "title": "محمد عواد وكيل لائحة الدائرة الانتخابية لسلا المدينة",
+      "partyId": "P1"
    
     },
      {
@@ -21,7 +24,8 @@
       "districtId": "D1",
       "type": "image",
       "url": "https://www.istiqlal.info/photo/art/default/23867612-25956046.jpg?v=1532039817",
-      "title": "jjjjkkkkkk"
+      "title": "jjjjkkkkkk",
+      "partyId": "P2"
    
     }
 ,
@@ -30,7 +34,8 @@
       "districtId": "D1",
       "type": "image",
       "url": "https://www.pam.ma/wp-content/uploads/2021/08/9029-2424-700x430.png",
-      "title": "سمير كودار وكيلا للائحة البام في انتخابات أعضاء مجلس جهة مراكش آسفي"
+      "title": "سمير كودار وكيلا للائحة البام في انتخابات أعضاء مجلس جهة مراكش آسفي",
+      "partyId": "P3"
    
     }
 ,
@@ -39,7 +44,8 @@
       "districtId": "D1",
       "type": "video",
       "url": " https://www.youtube.com/watch?v=wf2QrchfXlg",
-      "title": "أعضاء مجلس جهة"
+      "title": "أعضاء مجلس جهة",
+      "partyId": "P4"
    
     }
 
