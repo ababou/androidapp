@@ -7,19 +7,19 @@
       "id": "C1",
       "name": "أحمد بن محمد",
       "profession": "مهندس",
-      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_l1_leader.png"
+      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_L1_leader.png"
     },
     {
       "id": "C2",
       "name": "فاطمة الزهراء",
       "profession": "طبيبة",
-      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_l1_team1.png"
+      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_L1_team1.png"
     },
     {
       "id": "C3",
       "name": "علي سعيد",
       "profession": "أستاذ",
-      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_l1_team2.png"
+      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_L1_team2.png"
     }
   ]
 }
