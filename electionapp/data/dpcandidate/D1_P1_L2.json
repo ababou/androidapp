@@ -6,14 +6,14 @@
     {
       "id": "C4",
       "name": "سارة عبد الله",
-      "profession": "محامية",
-      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_L2_leader.png"
+      "job": "محامية",
+      "photo": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_L2_leader.png"
     },
     {
       "id": "C5",
       "name": "ليلى حسن",
-      "profession": "مهندسة",
-      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_L2_team1.png"
+      "job": "مهندسة",
+      "photo": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/candidates/D1_P1_L2_team1.png"
     }
   ]
 }
