@@ -1,1 +1,20 @@
+{
+  "partyId": "P1",
+  "partyName": "حزب الإنصاف",
+  "listType": "women",
+  "candidates": [
+    {
+      "id": "C4",
+      "name": "سارة عبد الله",
+      "profession": "محامية",
+      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/flayerdistrict/D1_P1_l2_leader.png"
+    },
+    {
+      "id": "C5",
+      "name": "ليلى حسن",
+      "profession": "مهندسة",
+      "image": "https://raw.githubusercontent.com/ababou/androidapp/main/electionapp/flayerdistrict/D1_P1_l2_team1.png"
+    }
+  ]
+}
 
