@@ -133,8 +133,8 @@
 
 
 
-    {"id": "D20", "name": ">بزو - واويزاغت<", "prefectureId": "P26", "seats": 2},
-    {"id": "D21", "name": ">أزيلال - دمنات<", "prefectureId": "P26", "seats": 2},
+    {"id": "D20", "name": "بزو - واويزاغت", "prefectureId": "P26", "seats": 2},
+    {"id": "D21", "name": "أزيلال - دمنات", "prefectureId": "P26", "seats": 2},
 
 
 
@@ -302,4 +302,5 @@
     {"id": "D74", "name": "المنارة", "prefectureId": "P84", "seats": 3},
     {"id": "D75", "name": "جليز - النخيل", "prefectureId": "P84", "seats": 3},
     {"id": "D76", "name": "المدينة - سيدي يوسف بن علي", "prefectureId": "P84", "seats": 3}
+
 ]
