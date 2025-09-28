@@ -192,7 +192,7 @@
     
   },
   {
-    "id": "P33",
+    "id": "P49",
     "name": "الاتحاد الوطني للقوات الشعبية",
     "logo": "https://raw.githubusercontent.com/ababou/androidapp/refs/heads/main/electionapp/party/P33.png"
     
@@ -288,7 +288,7 @@
     
   },
   {
-    "id": "P49",
+    "id": "P33",
     "name": "حزب الاتحاد الاشتراكي للقوات الشعبية",
     "logo": "https://raw.githubusercontent.com/ababou/androidapp/refs/heads/main/electionapp/party/P49.png"
     
@@ -348,5 +348,6 @@
     
   }
 ]
+
 
 
